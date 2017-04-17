@@ -1,6 +1,3 @@
-NOTICE:
-    This is a blackbox attack problem, Do not attach any file on the problem description.
-
 SETUP:
     on the vps:    
     docker build -t boj .
