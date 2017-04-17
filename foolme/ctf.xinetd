@@ -1,0 +1,14 @@
+# replace helloworld to your program
+service ctf
+{
+    disable = no
+    socket_type = stream
+    protocol    = tcp
+    wait        = no
+    user        = root
+    bind        = 0.0.0.0
+    server      = /usr/bin/python3 
+    server_args = /home/ctf/foolme.py 2>/dev/null
+    type        = UNLISTED
+    port        = 9999
+}
