@@ -1,7 +1,9 @@
+**NOTICE**:This chanllenges only works on ubuntu, other platforms are not well-tested.
+
 SETUP:
 * on the vps:
-    * docker build -t boj .
-    * docker run --privileged -p "0.0.0.0:80:80"  -i -v  /backup:/backup -t boj /bin/bash
+    * sudo docker build -t boj .
+    * sudo docker run --privileged -p "0.0.0.0:80:80"  -i -v  /backup:/backup -t boj /bin/bash
 
     
 * inside the container:
