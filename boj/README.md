@@ -7,6 +7,8 @@ SETUP:
     * /start.sh
 
 
+Writeups:
 
+* https://ctftime.org/writeup/6412
+* https://ctftime.org/writeup/6414 (offical)
 
-    
