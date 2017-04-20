@@ -1,4 +1,4 @@
-**NOTICE**:This chanllenges only works on ubuntu, other platforms are not well-tested.
+**NOTICE**:This chanllenge only works on ubuntu, other platforms are not well-tested.
 
 Setup:
 * host:
